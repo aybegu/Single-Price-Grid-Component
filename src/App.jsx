@@ -25,15 +25,25 @@ function App() {
           </div>
           <div className="main--lower-part-right">
             <h4>Why Us</h4>
-            <p>
-              Tutorials by industry experts
-              Peer &#36; expert code review
-              Coding exercises
-              Access to our GitHub repos
-              Community forum
-              Flashcard decks
-              New videos every week
-            </p>
+            <ul>
+              <li>Tutorials by industry experts</li>
+              <li>Peer & expert code review</li>
+              <li>Coding exercises</li>
+              <li>Access to our GitHub repos</li>
+              <li>Community forum</li>
+              <li>Flashcard decks</li>
+              <li>New videos every week</li>
+
+            </ul>
+            {/* <p>
+              
+              
+              
+              
+              
+              
+              
+            </p> */}
           </div>
         </div>
       </main>
